@@ -4,12 +4,10 @@ FOR EVERY KIND OF BADASS
 
 This is a collection of gear representing some Battleborn characters.
 
-Note: These weapons are more powerful than your usual gun, but attempts have been made to balance them.
+Note: These are OP and ported over quite poorly
 Despite that, use these at your own risk if you don't like 'strong' guns.
 
-This gear is made to replicate the character's skills / weapons in some way, put into a single piece of gear made for them.
-
-Melee characters not included.
+Melee characters excluded for obvious reasons
 
 Beatrix -> DONE
 Caldarius -> DONE
